@@ -1,0 +1,92 @@
+indicator,Institutional births in public facility (%),,,,,
+,,,,,,
+Row Labels,Sum of rural,Sum of urban,Sum of total,Sum of rural,Sum of urban,Sum of total
+Andaman and Nicobar Islands,92.7,91.6,92.3,92.7,91.6,92.3
+Andhra Pradesh,39.6,34.8,38.3,39.6,34.8,38.3
+Arunachal Pradesh,38,59.5,42.7,38,59.5,42.7
+Assam,59.8,61.7,60,59.8,61.7,60
+Bihar,48.2,42.7,47.7,48.2,42.7,47.7
+Chandigarh,,,72.4,0,0,72.4
+Chhattisgarh,57.2,50.7,55.9,57.2,50.7,55.9
+Dadra and Nagar Haveli,74.3,55.3,66.4,74.3,55.3,66.4
+Daman and Diu,42.1,43.4,43,42.1,43.4,43
+Delhi,-80.6,56.7,56.9,80.6,56.7,56.9
+Goa,59.9,57.3,58.2,59.9,57.3,58.2
+Gujarat,35.7,28.2,32.6,35.7,28.2,32.6
+Haryana,55.2,46.3,52,55.2,46.3,52
+Himachal Pradesh,61,69.3,61.6,61,69.3,61.6
+Jammu and Kashmir,77.1,81.4,78.1,77.1,81.4,78.1
+Jharkhand,43.2,36,41.8,43.2,36,41.8
+Karnataka,68.9,50.2,61.4,68.9,50.2,61.4
+Kerala,40.8,35.6,38.4,40.8,35.6,38.4
+Lakshadweep,-61,63.5,63.3,61,63.5,63.3
+Madhya Pradesh,70.3,66.9,69.5,70.3,66.9,69.5
+Maharashtra,50.9,46.4,48.9,50.9,46.4,48.9
+Manipur,40.9,55.3,45.7,40.9,55.3,45.7
+Meghalaya,37.3,53.1,39.4,37.3,53.1,39.4
+Mizoram,56.6,70.2,63.8,56.6,70.2,63.8
+Nagaland,19.5,40.2,25.1,19.5,40.2,25.1
+Odisha,77.4,66.9,75.9,77.4,66.9,75.9
+Puducherry,91.3,77.9,82,91.3,77.9,82
+Punjab,58.5,41.3,51.7,58.5,41.3,51.7
+Rajasthan,65.1,57.6,63.5,65.1,57.6,63.5
+Sikkim,85.2,77.5,82.7,85.2,77.5,82.7
+Tamil Nadu,73.8,58.7,66.7,73.8,58.7,66.7
+Telangana,34.4,27.1,31,34.4,27.1,31
+Tripura,69.2,68.7,69.1,69.2,68.7,69.1
+Uttar Pradesh,48.2,30.3,44.5,48.2,30.3,44.5
+Uttarakhand,44.5,42.3,43.8,44.5,42.3,43.8
+West Bengal,114,111,113.2,114,111,113.2
+Grand Total,1789.2,1955.6,2079.5,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,Row Labels,Sum of rural,Sum of urban,Sum of total,
+,,Andaman and Nicobar Islands,92.7,91.6,92.3,
+,,Andhra Pradesh,39.6,34.8,38.3,
+,,Arunachal Pradesh,38,59.5,42.7,
+,,Assam,59.8,61.7,60,
+,,Bihar,48.2,42.7,47.7,
+,,Chandigarh,0,0,72.4,
+,,Chhattisgarh,57.2,50.7,55.9,
+,,Dadra and Nagar Haveli,74.3,55.3,66.4,
+,,Daman and Diu,42.1,43.4,43,
+,,Delhi,80.6,56.7,56.9,
+,,Goa,59.9,57.3,58.2,
+,,Gujarat,35.7,28.2,32.6,
+,,Haryana,55.2,46.3,52,
+,,Himachal Pradesh,61,69.3,61.6,
+,,Jammu and Kashmir,77.1,81.4,78.1,
+,,Jharkhand,43.2,36,41.8,
+,,Karnataka,68.9,50.2,61.4,
+,,Kerala,40.8,35.6,38.4,
+,,Lakshadweep,61,63.5,63.3,
+,,Madhya Pradesh,70.3,66.9,69.5,
+,,Maharashtra,50.9,46.4,48.9,
+,,Manipur,40.9,55.3,45.7,
+,,Meghalaya,37.3,53.1,39.4,
+,,Mizoram,56.6,70.2,63.8,
+,,Nagaland,19.5,40.2,25.1,
+,,Odisha,77.4,66.9,75.9,
+,,Puducherry,91.3,77.9,82,
+,,Punjab,58.5,41.3,51.7,
+,,Rajasthan,65.1,57.6,63.5,
+,,Sikkim,85.2,77.5,82.7,
+,,Tamil Nadu,73.8,58.7,66.7,
+,,Telangana,34.4,27.1,31,
+,,Tripura,69.2,68.7,69.1,
+,,Uttar Pradesh,48.2,30.3,44.5,
+,,Uttarakhand,44.5,42.3,43.8,
+,,West Bengal,114,111,113.2,
